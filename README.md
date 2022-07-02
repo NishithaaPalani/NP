@@ -5,6 +5,6 @@ Hi there👋
  
 📧 you can reach me out at : nishithaapalani@gmail.com
 
-🌱 I’m currently learning : JS, React and Angular
+🌱 I’m currently learning :  ReactExpo and Angular
 
 ⚡ Intersting fact : I Design 3D Home Models too
