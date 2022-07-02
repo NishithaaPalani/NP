@@ -1,7 +1,7 @@
 # NP
 Hi there👋
 
-🔭 I’m currently working on : Web Development, Anroid development, Image Processing and Tech Stack 
+🔭 I’m currently working on : Web Development, Android development, Image Processing and Tech Stack 
  
 📧 you can reach me out at : nishithaapalani@gmail.com
 
